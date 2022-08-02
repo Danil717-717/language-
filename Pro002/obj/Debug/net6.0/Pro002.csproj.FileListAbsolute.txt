@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\12345\language-\Pro002\bin\Debug\net6.0\Pro002.exe
+C:\Users\Данил\Desktop\12345\language-\Pro002\bin\Debug\net6.0\Pro002.deps.json
+C:\Users\Данил\Desktop\12345\language-\Pro002\bin\Debug\net6.0\Pro002.runtimeconfig.json
+C:\Users\Данил\Desktop\12345\language-\Pro002\bin\Debug\net6.0\Pro002.dll
+C:\Users\Данил\Desktop\12345\language-\Pro002\bin\Debug\net6.0\Pro002.pdb
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.AssemblyInfo.cs
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.dll
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\refint\Pro002.dll
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.pdb
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\Pro002.genruntimeconfig.cache
+C:\Users\Данил\Desktop\12345\language-\Pro002\obj\Debug\net6.0\ref\Pro002.dll
