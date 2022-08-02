@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\12345\language-\bin\Debug\net6.0\language-.exe
+C:\Users\Данил\Desktop\12345\language-\bin\Debug\net6.0\language-.deps.json
+C:\Users\Данил\Desktop\12345\language-\bin\Debug\net6.0\language-.runtimeconfig.json
+C:\Users\Данил\Desktop\12345\language-\bin\Debug\net6.0\language-.dll
+C:\Users\Данил\Desktop\12345\language-\bin\Debug\net6.0\language-.pdb
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.AssemblyInfo.cs
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.dll
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\refint\language-.dll
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.pdb
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\language-.genruntimeconfig.cache
+C:\Users\Данил\Desktop\12345\language-\obj\Debug\net6.0\ref\language-.dll
